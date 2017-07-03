@@ -17,7 +17,7 @@ puts "No one was there to bury you so you eventually decomposed and became one w
 puts "STORY HAS ENDED"
 print "Type a character here once you are ready to leave""\n"
 first_leave = gets.chomp
-print "*You have finished the story!*""\n"
+print "*You have finished the story! Do you want to play again?*””\n”
 print "If you wish to play again simply reload the script!"
 when 1
 puts "You get up"
@@ -74,7 +74,7 @@ puts "You see a water source in the distance and start running to it"
 puts "You get there and start drinking like an animal"
 puts "After you finish drinking you are starting to feel tired"
 puts "You slowly fall asleep on the side of the water source"
-sleep 10
+sleep 1
 print "zzzzzzzzzzzzzzzzzzzzz""\n"
 print "*Type a character to continue*"
 character3 = gets.chomp
