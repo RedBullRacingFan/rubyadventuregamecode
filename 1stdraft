@@ -15,7 +15,7 @@ when 0
 puts "You chose to lay on the ground and you died"
 puts "No one was there to bury you so you eventually decomposed and became one with the Earth"
 puts "STORY HAS ENDED"
-print "Type a character here once you are ready to leave""\n"
+print "Type a character here once you are ready to run””\n”
 first_leave = gets.chomp
 print "*You have finished the story! Do you want to play again?*””\n”
 print "If you wish to play again simply reload the script!"
