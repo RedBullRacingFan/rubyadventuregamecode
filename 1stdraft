@@ -24,7 +24,7 @@ puts "You get up"
 puts "You are completely dehydrated and desperatly need water"
 sleep 1
 puts "You start walking around for while and eventually see an area that looks like a water source"
-puts "You rush over and see that the water is dirty"
+puts "You rush over and see that the water is dirty!”
 puts "You think to yourself is you want to drink it, or if you want to try and find another water source"
 print "Will you drink it yes[0] or no [1]?"
 second_choice = gets
@@ -76,7 +76,7 @@ puts "You get there and start drinking like an animal"
 puts "After you finish drinking you are starting to feel tired"
 puts "You slowly fall asleep on the side of the water source"
 sleep 1
-print "zzzzzzzzzzzzzzzzzzzzz""\n"
+print "zzzzzzzzzzzzzzzzz""\n"
 print "*Type a character to continue*"
 character3 = gets.chomp
 end
