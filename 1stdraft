@@ -22,6 +22,7 @@ print "If you wish to play again simply reload the script!"
 when 1
 puts "You get up"
 puts "You are completely dehydrated and desperatly need water"
+sleep 1
 puts "You start walking around for while and eventually see an area that looks like a water source"
 puts "You rush over and see that the water is dirty"
 puts "You think to yourself is you want to drink it, or if you want to try and find another water source"
@@ -69,8 +70,8 @@ end
 
 when 1 
 puts "You continue walking to try and find another source"
-puts "You struggle accross the uneven terrain"
-puts "You see a water source in the distance and start running to it"
+puts "You struggle across the uneven terrain"
+puts "You see a water source in the distance"
 puts "You get there and start drinking like an animal"
 puts "After you finish drinking you are starting to feel tired"
 puts "You slowly fall asleep on the side of the water source"
