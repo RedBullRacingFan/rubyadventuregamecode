@@ -60,6 +60,7 @@ foodorwater = gets.chomp
 case foodorwater
 when "0"
 print "You walk back to get some more water only to find that all the water is gone!!!""\n"
+sleep 2
 print "You then have to decide whether to go and find some more water[0] or go back and continue your search for food[1]?"
 when "1"
 print "You continue to search for food, until you see a wild deer!""\n"
